@@ -38,11 +38,6 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Karthikeyan R
 RegisterNumber: 212222240045
 
-
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Afsar jumail S
-RegisterNumber: 212222240004
-
 import numpy as np
 import sys
 n=int(input())
